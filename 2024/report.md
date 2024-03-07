@@ -1,4 +1,10 @@
-05.03.2024
+07.03.2024
+- connected Api (https://fxratesapi.com/docs)
+- finish main logic
+- optimise flat list
+- fix lots of small bugs
+
+06.03.2024
 - add some features in (https://github.com/stillgg/Valetax)
 
 05.03.2024
