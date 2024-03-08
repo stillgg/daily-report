@@ -1,3 +1,7 @@
+08.03.2024
+- fix bugs
+- little improvements
+
 07.03.2024
 - connected Api (https://fxratesapi.com/docs)
 - finish main logic
