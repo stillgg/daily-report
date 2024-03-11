@@ -1,3 +1,7 @@
+11.03.2024
+- formatting numbers
+- fixing bugs
+
 08.03.2024
 - fix bugs
 - little improvements
