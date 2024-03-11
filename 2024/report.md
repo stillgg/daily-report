@@ -1,6 +1,10 @@
 11.03.2024
 - formatting numbers
-- fixing bugs
+- optimise flat list, add loader
+- preloaders
+- error handling
+- testing on android
+- configure splash screens and icons for platforms
 
 08.03.2024
 - fix bugs
