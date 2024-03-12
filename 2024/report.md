@@ -1,3 +1,12 @@
+12.03.2024
+- finish setting for splash screens
+- optimise fetch requests
+- replace intl format from us to ru
+- write doc
+- add typings for router
+- using stylesheet in project
+- finish test task (https://github.com/stillgg/Valetax)
+
 11.03.2024
 - formatting numbers
 - optimise flat list, add loader
