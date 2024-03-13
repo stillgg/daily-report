@@ -1,3 +1,7 @@
+13.03.2024
+- projection, linses, metaprogramming(https://github.com/stillgg/education/issues/79)
+- English Титановый плейлист(https://github.com/stillgg/education/issues/384)
+
 12.03.2024
 - finish setting for splash screens
 - optimise fetch requests
@@ -5,7 +9,7 @@
 - write doc
 - add typings for router
 - using stylesheet in project
-- finish test task (https://github.com/stillgg/Valetax)
+- finish test task ()
 
 11.03.2024
 - formatting numbers
