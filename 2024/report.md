@@ -1,3 +1,13 @@
+15.03.2024
+- performance (https://github.com/stillgg/education/issues/83)
+- async on callbacks(https://github.com/stillgg/education/issues/84)
+- English, 103 and 104 lessons(https://github.com/stillgg/education/issues/384)
+
+14.03.2024
+- inline cache, polymorphic and monomorphic code(https://github.com/stillgg/education/issues/80)
+- functional programming(https://github.com/stillgg/education/issues/81)
+- reactive programming(https://github.com/stillgg/education/issues/82)
+
 13.03.2024
 - projection, linses, metaprogramming(https://github.com/stillgg/education/issues/79)
 - English Титановый плейлист(https://github.com/stillgg/education/issues/384)
