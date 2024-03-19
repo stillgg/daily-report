@@ -1,3 +1,10 @@
+[19.03.2024]
+
+- 106,107 lessons titan playlist (https://github.com/stillgg/education/issues/384)
+- Шаблон Singleton (синглтон) в JavaScript (https://github.com/stillgg/education/issues/89)
+- Антипаттерны ООП (часть 1) c примерами на JavaScript (https://github.com/stillgg/education/issues/88)
+- Автоматное программирование c примерами на JavaScript (https://github.com/stillgg/education/issues/87)
+
 [18.03.2024]
 
 - 105 lesson titan playlist (https://github.com/stillgg/education/issues/384)
