@@ -1,3 +1,9 @@
+[20.03.2024]
+
+- 108 lesson titan playlist (https://github.com/stillgg/education/issues/384)
+- Генераторы и асинхронные генераторы в JavaScript (https://github.com/stillgg/education/issues/91)
+- Функциональные объекты, функторы и монады в JavaScript (https://github.com/stillgg/education/issues/90)
+
 [19.03.2024]
 
 - 106,107 lessons titan playlist (https://github.com/stillgg/education/issues/384)
