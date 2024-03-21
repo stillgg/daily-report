@@ -1,3 +1,10 @@
+[21.03.2024]
+
+- 109 lesson titan playlist (https://github.com/stillgg/education/issues/384)
+- Дженерики и обобщенное программирование (https://github.com/stillgg/education/issues/94)
+- Перечислимый тип (enum) в JavaScript и TypeScript (https://github.com/stillgg/education/issues/93)
+- Итераторы и асинхронные итераторы в JavaScript (https://github.com/stillgg/education/issues/92)
+
 [20.03.2024]
 
 - 108 lesson titan playlist (https://github.com/stillgg/education/issues/384)
