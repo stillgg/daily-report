@@ -1,3 +1,11 @@
+[22.03.2024]
+
+- 110 lesson titan playlist (https://github.com/stillgg/education/issues/384)
+- Интроспекция и рефлексия в JavaScript (https://github.com/stillgg/education/issues/97)
+- Тестирование: системное и интеграционное тестирование на JavaScript (https://github.com/stillgg/education/issues/96)
+- practice English on speakingclub
+- Тестирование: юниттесты с примерами на JavaScript (https://github.com/stillgg/education/issues/95)
+
 [21.03.2024]
 
 - 109 lesson titan playlist (https://github.com/stillgg/education/issues/384)
