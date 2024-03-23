@@ -1,3 +1,8 @@
+[23.03.2024]
+
+- 111,112 lesson titan playlist (https://github.com/stillgg/education/issues/385)
+- passing 2 lessons in speakingclub
+
 [22.03.2024]
 
 - 110 lesson titan playlist (https://github.com/stillgg/education/issues/384)
