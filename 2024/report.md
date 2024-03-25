@@ -1,3 +1,9 @@
+[25.03.2024]
+
+- 113,114 lesson titan playlist (https://github.com/stillgg/education/issues/385)
+- 2 hours on speaking club
+- Почему хорошее ИТ-образование невостребовано рыночком - Глушков Fest 2019 (https://github.com/stillgg/education/issues/98)
+
 [23.03.2024]
 
 - 111,112 lesson titan playlist (https://github.com/stillgg/education/issues/385)
