@@ -1,3 +1,9 @@
+[26.03.2024]
+
+- 115 lesson titan playlist (https://github.com/stillgg/education/issues/385)
+- started reading documentation phaser for golden frog slot game
+- GRASP принципы с адаптацией для JavaScript и Node.js (https://github.com/stillgg/education/issues/122)
+
 [25.03.2024]
 
 - 113,114 lesson titan playlist (https://github.com/stillgg/education/issues/385)
