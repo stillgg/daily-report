@@ -1,3 +1,12 @@
+[27.03.2024]
+
+- 116 lesson titan playlist (https://github.com/stillgg/education/issues/385)
+- learning phaser doc, install photoshop and figure layout out
+- 1h on speaking club
+- GRASP: Чистая выдумка для JavaScript и Node.js - Pure Fabrication (https://github.com/stillgg/education/issues/125)
+- GRASP: Зацепление и связность в JavaScript и Node.js - coupling and cohesion(https://github.com/stillgg/education/issues/124)
+- GRASP: принцип информационный эксперт с адаптацией для JavaScript и Node.js(https://github.com/stillgg/education/issues/123)
+
 [26.03.2024]
 
 - 115 lesson titan playlist (https://github.com/stillgg/education/issues/385)
